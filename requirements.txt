@@ -3,4 +3,4 @@ numpy
 sklearn
 keras
 gunicorn
-tensorflow
+tensorflow-cpu
